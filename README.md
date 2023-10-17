@@ -1,6 +1,10 @@
 # API-PUC
 Atividade da disciplina de API's e Web Services da Pós graduação na PUC
 
+Aluno: Jeiseel Rodrigues da Silva
+
+Matricula: 180518 
+
 # Guia de Configuração:
 
 1 - Clone o projeto.
@@ -26,3 +30,4 @@ Atividade da disciplina de API's e Web Services da Pós graduação na PUC
 * http://localhost:3000/pessoas/id
 * http://localhost:3000/carros/id
 * http://localhost:3000/animais/id
+
